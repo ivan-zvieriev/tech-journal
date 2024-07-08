@@ -1,0 +1,13 @@
+View
+Ctrl + 1 - Explorer
+Ctrl + 2 - Search
+Ctrl + 3 - Git
+Ctrl + 4 - Run and debug
+Ctrl + 5 - Extensions
+Ctrl + 6 - Remote Explorer
+Ctrl + 7 - spring
+Ctrl + 8 - Docker
+Ctrl + 9 - Copilot
+
+Git
+Ctrl + G ++a - add all changes 
