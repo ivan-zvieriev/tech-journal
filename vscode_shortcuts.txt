@@ -10,4 +10,7 @@ Ctrl + 8 - Docker
 Ctrl + 9 - Copilot
 
 Git
-Ctrl + G ++a - add all changes 
+Ctrl + G ++a - add all changes
+         ++c - commit
+         ++p - push
+         
